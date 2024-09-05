@@ -1,0 +1,10 @@
+C:\Users\popav\Master\Medii si platforme\ProiectCurs\MainForm\Proiect_ToDoList\bin\Debug\Proiect_ToDoList.exe.config
+C:\Users\popav\Master\Medii si platforme\ProiectCurs\MainForm\Proiect_ToDoList\bin\Debug\Proiect_ToDoList.exe
+C:\Users\popav\Master\Medii si platforme\ProiectCurs\MainForm\Proiect_ToDoList\bin\Debug\Proiect_ToDoList.pdb
+C:\Users\popav\Master\Medii si platforme\ProiectCurs\MainForm\Proiect_ToDoList\obj\Debug\Proiect_ToDoList.csproj.AssemblyReference.cache
+C:\Users\popav\Master\Medii si platforme\ProiectCurs\MainForm\Proiect_ToDoList\obj\Debug\Proiect_ToDoList.MainForm.resources
+C:\Users\popav\Master\Medii si platforme\ProiectCurs\MainForm\Proiect_ToDoList\obj\Debug\Proiect_ToDoList.Properties.Resources.resources
+C:\Users\popav\Master\Medii si platforme\ProiectCurs\MainForm\Proiect_ToDoList\obj\Debug\Proiect_ToDoList.csproj.GenerateResource.cache
+C:\Users\popav\Master\Medii si platforme\ProiectCurs\MainForm\Proiect_ToDoList\obj\Debug\Proiect_ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\popav\Master\Medii si platforme\ProiectCurs\MainForm\Proiect_ToDoList\obj\Debug\Proiect_ToDoList.exe
+C:\Users\popav\Master\Medii si platforme\ProiectCurs\MainForm\Proiect_ToDoList\obj\Debug\Proiect_ToDoList.pdb
